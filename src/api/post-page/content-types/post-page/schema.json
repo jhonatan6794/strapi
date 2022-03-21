@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "post_pages",
+  "info": {
+    "singularName": "post-page",
+    "pluralName": "post-pages",
+    "displayName": "post-page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
